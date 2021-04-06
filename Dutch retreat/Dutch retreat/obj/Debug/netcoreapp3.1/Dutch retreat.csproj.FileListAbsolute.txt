@@ -1,0 +1,33 @@
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\bin\Debug\netcoreapp3.1\Dutch retreat.exe
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\bin\Debug\netcoreapp3.1\Dutch retreat.deps.json
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\bin\Debug\netcoreapp3.1\Dutch retreat.runtimeconfig.json
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\bin\Debug\netcoreapp3.1\Dutch retreat.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\bin\Debug\netcoreapp3.1\Dutch retreat.dll
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\bin\Debug\netcoreapp3.1\Dutch retreat.pdb
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\bin\Debug\netcoreapp3.1\Dutch retreat.Views.dll
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Debug\netcoreapp3.1\Dutch retreat.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Debug\netcoreapp3.1\Dutch retreat.AssemblyInfo.cs
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Debug\netcoreapp3.1\Dutch retreat.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Debug\netcoreapp3.1\Dutch retreat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Debug\netcoreapp3.1\staticwebassets\Dutch retreat.StaticWebAssets.Manifest.cache
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Debug\netcoreapp3.1\staticwebassets\Dutch retreat.StaticWebAssets.xml
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Debug\netcoreapp3.1\scopedcss\bundle\Dutch retreat.styles.css
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Debug\netcoreapp3.1\Dutch retreat.RazorTargetAssemblyInfo.cache
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Debug\netcoreapp3.1\Dutch retreat.dll
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Debug\netcoreapp3.1\Dutch retreat.pdb
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Debug\netcoreapp3.1\Dutch retreat.genruntimeconfig.cache
+C:\Users\USER\source\repos\Dutch retreat\Dutch retreat\obj\Debug\netcoreapp3.1\Dutch retreat.csproj.CopyComplete
+C:\Users\USER\source\repos\dutch retreat\dutch retreat\bin\Debug\netcoreapp3.1\.filenesting.json
+C:\Users\USER\source\repos\Dutch retreat\dutch retreat\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\USER\source\repos\Dutch retreat\dutch retreat\obj\Debug\netcoreapp3.1\dutch retreat.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Dutch retreat\dutch retreat\bin\Debug\netcoreapp3.1\dutch retreat.Views.pdb
+C:\Users\USER\source\repos\Dutch retreat\dutch retreat\obj\Debug\netcoreapp3.1\dutch retreat.RazorAssemblyInfo.cache
+C:\Users\USER\source\repos\Dutch retreat\dutch retreat\obj\Debug\netcoreapp3.1\dutch retreat.RazorAssemblyInfo.cs
+C:\Users\USER\source\repos\Dutch retreat\dutch retreat\obj\Debug\netcoreapp3.1\dutch retreat.TagHelpers.input.cache
+C:\Users\USER\source\repos\Dutch retreat\dutch retreat\obj\Debug\netcoreapp3.1\dutch retreat.TagHelpers.output.cache
+C:\Users\USER\source\repos\Dutch retreat\dutch retreat\obj\Debug\netcoreapp3.1\dutch retreat.RazorCoreGenerate.cache
+C:\Users\USER\source\repos\Dutch retreat\dutch retreat\obj\Debug\netcoreapp3.1\Razor\Views\Index.cshtml.g.cs
+C:\Users\USER\source\repos\Dutch retreat\dutch retreat\obj\Debug\netcoreapp3.1\dutch retreat.RazorTargetAssemblyInfo.cs
+C:\Users\USER\source\repos\Dutch retreat\dutch retreat\obj\Debug\netcoreapp3.1\dutch retreat.Views.pdb
